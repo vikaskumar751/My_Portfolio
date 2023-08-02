@@ -24,7 +24,7 @@ const Projects = () => {
                   <button className="mt-4 px-4 py-2 bg-blue-900 text-white rounded-md hover:bg-red-500">
                 <a
                   id
-                  href='https://github.com/TheMostafax/My_Anime_App'
+                  href='https://github.com/vikaskumar751/todolist'
                 >
                   more info on GitHub    <FiArrowRight className="mr-2 inline-block" />
                 </a>
